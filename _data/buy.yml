@@ -52,6 +52,12 @@
    url: http://buybitcoinww.co/Wall_of_Coins    
  
 ############## Europe ##############  
+
+ - exchange: SpectroCoin
++   description: SpectroCoin is an all-in-one solution for Bitcoin. Services offered include a wide range of Bitcoin solutions, from exchange to Bitcoin e-wallet. SpectroCoin builds its business policy on Bitcoin's philosophy of making financing quicker, frictionless and flexible.
++   countries: uk, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg
++   logo: spectrocoin.png
++   url: https://spectrocoin.com/
    
  - exchange: Bitcoin.de
    description: Bitcoin.de is a Bitcoin exchange based in Germany, with average daily trading volume of 3,000-7,000 BTC. Deposits must be made with SEPA transfer.
