@@ -61,7 +61,7 @@
    url: https://www.bitcoin.de/
    
  - exchange: SpectroCoin
-   description: <p>SpectroCoin is an all-in-one solution for Bitcoin. Services offered include a wide range of Bitcoin solutions, from exchange to Bitcoin e-wallet.</p>
+   description: <p>SpectroCoin is an all in one solution for Bitcoin offering Bitcoin exchange, Bitcoin wallet, bitcoin debit card and bitcoin payment service processing solutions for more than 140 countries. SpectroCoin allows to buy bitcoin with credit or debit cards, bank wires, cash and other payment options.</p>
    countries: ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk
    logo: spectrocoin.png
    url: https://spectrocoin.com/en/
@@ -87,7 +87,7 @@
 ############## United Kingdom ##############  
    
  - exchange: SpectroCoin
-   description: <p>SpectroCoin is an all-in-one solution for Bitcoin. Services offered include a wide range of Bitcoin solutions, from exchange to Bitcoin e-wallet.</p>
+   description: <p>SpectroCoin is an all in one solution for Bitcoin offering Bitcoin exchange, Bitcoin wallet, bitcoin debit card and bitcoin payment service processing solutions for more than 140 countries. SpectroCoin allows to buy bitcoin with credit or debit cards, bank wires, cash and other payment options.</p>
    countries: ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk
    logo: spectrocoin.png
    url: https://spectrocoin.com/en/
@@ -227,6 +227,12 @@
    logo: satoshitango.png
    url: https://www.satoshitango.com/home  
    
+ - exchange: SpectroCoin
+   description: <p>SpectroCoin is an all in one solution for Bitcoin offering Bitcoin exchange, Bitcoin wallet, bitcoin debit card and bitcoin payment service processing solutions for more than 140 countries. SpectroCoin allows to buy bitcoin with credit or debit cards, bank wires, cash and other payment options.</p>
+   countries: ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk
+   logo: spectrocoin.png
+   url: https://spectrocoin.com/en/
+   
  - exchange: Bitex.la
    description: Bitex.la is a Bitcoin exchange that offers services in Argentina, Chile, Colombia, and Uruguay. Deposits can be made with cash in Argentina and Chile, or with AstroPay in all four countries.
    countries: sa, br
@@ -286,6 +292,12 @@
    countries: af
    logo: bitx.png
    url: https://www.bitx.co/ 
+   
+ - exchange: SpectroCoin
+   description: <p>SpectroCoin is an all in one solution for Bitcoin offering Bitcoin exchange, Bitcoin wallet, bitcoin debit card and bitcoin payment service processing solutions for more than 140 countries. SpectroCoin allows to buy bitcoin with credit or debit cards, bank wires, cash and other payment options.</p>
+   countries: ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk
+   logo: spectrocoin.png
+   url: https://spectrocoin.com/en/
    
  - exchange: NairaEx
    description: Buy and sell bitcoins in Nigeria with Perfect Money and Web Money.  

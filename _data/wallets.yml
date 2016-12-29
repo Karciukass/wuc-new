@@ -55,7 +55,7 @@
    img: greenaddress
    
  - wallet: SpectroCoin
-   description: SpectroCoin is an all-in-one solution for Bitcoin. Services offered include a wide range of Bitcoin solutions, from exchange to Bitcoin e-wallet.  
+   description: SpectroCoin is an all in one solution for Bitcoin offering Bitcoin exchange, Bitcoin wallet, bitcoin debit card and bitcoin payment service processing solutions for more than 140 countries. SpectroCoin allows to buy bitcoin with credit or debit cards, bank wires, cash and other payment options.  
    category: web
    create: http://geni.us/spectrocoin
    img: spectrocoin
@@ -74,6 +74,12 @@
    download: https://play.google.com/store/apps/details?id=de.schildbach.wallet&hl=en
    img: bitcoinwallet
 
+ - wallet: SpectroCoin
+   description: SpectroCoin also offers mobile bitcoin wallet to easily send and receive bitcoins as well as to buy bitcoins with credit or debit card, cash or bank wire. SpectroCoin wallet also allows to avoid bitcoin price risk by instant send function, which exchanges fiat currency to bitcoins just before the bitcoin transaction.
+   category: mobileandroid
+   download: https://play.google.com/store/apps/details?id=lt.spectrofinance.spectrocoin.android.wallet
+   img: spectrocoin
+   
  - wallet: Airbitz
    description: <p><a href="/airbitz/">AirBitz</a> is another Bitcoin wallet that’s great for everyday use. It’s integrated with Fold, meaning you can get 20% discounts at Starbucks from within the wallet.</p><p>Airbitz manages accounts with usernames and passwords, but doesn’t have access to your funds. This type of account creation is easier for less technical users who may have trouble backing up or understanding HD seeds.</p>
    category: mobileandroid
@@ -103,6 +109,12 @@
    category: mobileios
    download: https://itunes.apple.com/us/app/copay/id951330296
    img: copay
+   
+ - wallet: SpectroCoin
+   description: SpectroCoin wallet is a mobile wallet for SpectroCoin account. It allows user to easily spend, receive Bitcoins by both Bitcoin network or email. Also users can exchange Bitcoins to and from Euros on the go. In addition to this, the client can check her SpectroCoin balance as well as see latest transactions.
+   category: mobileios
+   download: https://itunes.apple.com/us/app/spectrocoin-wallet/id923696089?mt=8
+   img: spectrocoin
 
  - wallet: Airbitz
    description: AirBitz is also available in the App Store. 
